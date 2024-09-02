@@ -9,10 +9,10 @@ Variable Assignment
 # ===================
 
 # assign same value to multiple variables on the same line
-# a = b = c = 'Cat'
-# print(a)
-# print(b)
-# print(c)
+a = b = c = 'Cat'
+print(a)
+print(b)
+print(c)
 
 # ===================
 
@@ -105,11 +105,11 @@ Object Reference
 # score --------> str 'Completed'
 #       -----------> int 100
 
-pb = 20 
-score = 100
-score = 'Completed'
+# pb = 20 
+# score = 100
+# score = 'Completed'
 
-print(type(score))
-print(type(pb))
-print(score)
-print(pb)
+# print(type(score))
+# print(type(pb))
+# print(score)
+# print(pb)
